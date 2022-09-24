@@ -34,4 +34,4 @@ For BT Module I havent found any good explanation but you can check my github re
 The repo has all the codes from my runner-up project from last april.
 
 ### Other suggestions:
-(Paul McWhorter)[https://www.youtube.com/channel/UCfYfK0tzHZTpNFrc_NDKfTA] and (Drone Workshop)[https://www.youtube.com/c/Dronebotworkshop1] whose videos I linked is also excellent at explaining indepth many things if you want to pursue robotics.
+[Paul McWhorter](https://www.youtube.com/channel/UCfYfK0tzHZTpNFrc_NDKfTA) and [Drone Workshop](https://www.youtube.com/c/Dronebotworkshop1) whose videos I linked is also excellent at explaining indepth many things if you want to pursue robotics.
