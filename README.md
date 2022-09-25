@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=6F1B_N6LuKw&ab_channel=DroneBotWorkshop [Indepth
 https://www.youtube.com/watch?v=2hwrDSVHQ-E&list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP&index=56
 
 ### BT Module:
-For BT Module I havent found any good explanation but you can check my github repository (here)[www.github.com/IrfanNafiz/Gambit] for the BT code, i'll udate the documentation with relevant BT videos later.
+For BT Module I havent found any good explanation but you can check my github repository [here](www.github.com/IrfanNafiz/Gambit) for the BT code, i'll update the documentation with relevant BT videos later.
 The repo has all the codes from my runner-up project from last april.
 
 ### Other suggestions:
