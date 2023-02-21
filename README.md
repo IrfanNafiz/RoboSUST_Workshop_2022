@@ -6,6 +6,7 @@ All code from RoboSUST Introduction to Robotics Workshop 2022.
 2. Team RLC Circuit
 3. Team Athena
 4. Team Bit Drone
+5. Team Better Bots
 
 ## Guidelines:
 
